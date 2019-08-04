@@ -1,0 +1,12 @@
+body{
+	background:url(https://cdn.flickeringmyth.com/wp-content/uploads/2017/10/Pokemon-I-Choose-You-1-600x338.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	background:rgba(2,20,80,.7);
+	color:orange;
+}
+table{
+	border: 8px green dashed;
+}
